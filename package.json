@@ -1,6 +1,6 @@
 {
   "name": "fca-dark-rulex",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Facebook Chat Api Made by Anup Kumar",
   "main": "index.js",
   "scripts": {
